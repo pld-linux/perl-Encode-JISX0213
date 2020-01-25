@@ -4,7 +4,6 @@
 #
 %define		pdir	Encode
 %define		pnam	JISX0213
-%include	/usr/lib/rpm/macros.perl
 Summary:	Encode::JISX0213 - JIS X 0213 encodings
 Summary(pl.UTF-8):	Encode::JISX0213 - kodowania JIS X 0213
 Name:		perl-Encode-JISX0213
