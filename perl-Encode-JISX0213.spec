@@ -8,7 +8,7 @@ Summary:	Encode::JISX0213 - JIS X 0213 encodings
 Summary(pl.UTF-8):	Encode::JISX0213 - kodowania JIS X 0213
 Name:		perl-Encode-JISX0213
 Version:	0.04
-Release:	6
+Release:	7
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
